@@ -16,3 +16,4 @@ sed -i "s/\"UTC\"/\"Japan\"/g" /etc/sysconfig/clock
 sed -i "s/en_US\.UTF-8/ja_JP\.UTF-8/g" /etc/sysconfig/i18n
 echo "locale: ja_JP.UTF-8" >> /etc/cloud/cloud.cfg
 
+# configuring .*rc files etc

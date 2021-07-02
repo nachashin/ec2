@@ -1,2 +1,2 @@
-# ec2
-provides scripts for initializing ec2 instance
+# init
+provides scripts for various OS initializing
